@@ -51,3 +51,4 @@ Make sure you have the following installed:
 
 2. The frontend communicates with the backend via Socket.IO and API endpoints for poll management.
 # live-polling-system-backend
+# live-polling-system-backend
